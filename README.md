@@ -1,0 +1,2 @@
+# Technovate_Decision_Makers_SImpliega_AI_Legal_Assistant1
+SIMPLILEGAL: AN AI-POWERED LEGAL DOCUMENTATION ASSISTANT
