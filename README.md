@@ -13,6 +13,7 @@ Thank you for using our web application for creating rental agreements. Here's h
 2. *Chatbot Assistance*:
    - If you have any questions or need guidance during the process, feel free to use our built-in chatbot.
    - The chatbot is powered by botpress annd trust us it is very useful bot having knowledge base from india legal websites and this is not enough then it can also help you by leveraging openAI gpt 3.5 technology
+   - if you want to access our bot [Click Here](https://mediafiles.botpress.cloud/f18a91ed-9d81-4115-a841-96d7578a54d5/webchat/bot.html) for accessing it
 
 3. *Text Summarization*:
    - Once your rental agreement is generated, you have the option to summarize it.
