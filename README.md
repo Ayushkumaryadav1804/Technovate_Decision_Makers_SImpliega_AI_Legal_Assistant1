@@ -12,11 +12,12 @@ Thank you for using our web application for creating rental agreements. Here's h
 
 2. *Chatbot Assistance*:
    - If you have any questions or need guidance during the process, feel free to use our built-in chatbot.
-   - The chatbot is powered by GPT-2 and can provide helpful explanations and answers to common queries.
+   - The chatbot is powered by botpress annd trust us it is very useful bot having knowledge base from india legal websites and this is not enough then it can also help you by leveraging openAI gpt 3.5 technology
 
 3. *Text Summarization*:
    - Once your rental agreement is generated, you have the option to summarize it.
    - This feature helps you quickly review the key points of the agreement without reading the entire document.
+   - We use Summarization model from huggingface transformers pipeline to summarize the document with this powerful model our summarization is upto mark
 
 4. *Finalizing Your Agreement*:
    - After reviewing and customizing your agreement, you can download it in various formats, such as PDF or Word, for your records.
@@ -28,7 +29,5 @@ We hope you find our rental agreement generator useful and user-friendly. If you
 
 Thank you for choosing our service!
 
-[Decision Makers]
-[17-09-2023]
 
 ----------------------------------
